@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Suchi",
   "license": "ISC",
-  "description": "",
+  "description": "Calculator for mean, median, and mode",
   "dependencies": {
     "express": "^4.16.3"
   }
